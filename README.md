@@ -30,6 +30,7 @@ This adds the bphogan styles to your project.
 └── styles
     ├── bphogan
     │   ├── Adverbs.yml                    Adverbs (from Microsoft styles)
+    │   ├── BadPlurals.yml                 Detect words pluralized using (s).
     │   ├── BadWords.yml                   Banned words I don't want in my writing
     │   ├── CodeLineLength.yml             Enforce code line length to 80 chars
     │   ├── Conclusion.yml                 Require "Conclusion" heading.
