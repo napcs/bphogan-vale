@@ -1,0 +1,6 @@
+extends: existence
+message: "You have a merge conflict! Fix the conflict and try again."
+nonword: true
+level: error
+tokens:
+  - '^[<|=|>]{7}( .+)?$'

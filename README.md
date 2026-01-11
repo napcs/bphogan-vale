@@ -42,12 +42,14 @@ This adds the bphogan styles to your project.
     │   ├── Latin.yml                      No Latin e.g. or i.e.
     │   ├── Learn.yml                      No "learn"
     │   ├── LinkHere.yml                   Looking for "here" in links
+    │   ├── MergeConflicts.yml             Locate merge conflict markers
     │   ├── Modals.yml                     Avoiding modal verbs "will" and "should"
     │   ├── OxfordComma.yml                require the Oxford Comma
     │   ├── ParagraphLength.yml            Looking for paragraph word count
     │   ├── Passive.yml                    No passive voice
     │   ├── Patronizing.yml                Avoiding patronizing phrases
     │   ├── SentenceCapitalization.yml     Ensure sentences are capitalized.
+    │   ├── Spaces.yml                     Look for extra spaces between words and sentences.
     │   ├── ThereIs.yml                    Don't start with "there is" or "there are".
     │   ├── TitleLength.yml                Shoot for a title under 50 chars
     │   ├── We.yml                         Avoid first person plurals
